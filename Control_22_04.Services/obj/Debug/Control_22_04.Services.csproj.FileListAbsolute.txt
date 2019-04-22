@@ -1,0 +1,9 @@
+c:\users\иргалиеве.corp\source\repos\Control_22_04\Control_22_04.Services\bin\Debug\Control_22_04.Services.dll
+c:\users\иргалиеве.corp\source\repos\Control_22_04\Control_22_04.Services\bin\Debug\Control_22_04.Services.pdb
+c:\users\иргалиеве.corp\source\repos\Control_22_04\Control_22_04.Services\bin\Debug\Control_22_04.Models.dll
+c:\users\иргалиеве.corp\source\repos\Control_22_04\Control_22_04.Services\bin\Debug\Control_22_04.Models.pdb
+c:\users\иргалиеве.corp\source\repos\Control_22_04\Control_22_04.Services\obj\Debug\Control_22_04.Services.csprojAssemblyReference.cache
+c:\users\иргалиеве.corp\source\repos\Control_22_04\Control_22_04.Services\obj\Debug\Control_22_04.Services.csproj.CoreCompileInputs.cache
+c:\users\иргалиеве.corp\source\repos\Control_22_04\Control_22_04.Services\obj\Debug\Control_22_04.Services.csproj.CopyComplete
+c:\users\иргалиеве.corp\source\repos\Control_22_04\Control_22_04.Services\obj\Debug\Control_22_04.Services.dll
+c:\users\иргалиеве.corp\source\repos\Control_22_04\Control_22_04.Services\obj\Debug\Control_22_04.Services.pdb
